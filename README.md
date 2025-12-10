@@ -24,21 +24,7 @@ City Pulse is a comprehensive news app that helps users stay informed about what
 ## 📸 Screenshots & Layout
 
 ### App Review
-
-**1. City Selector Screen**
-![Screenshot 1](photos/1.jpg)
-
-**2. News Feed Screen**
-![Screenshot 2](photos/2.jpg)
-
-**3. News WebView Screen**
-![Screenshot 3](photos/3.jpg)
-
-**4. Bookmarks Screen**
-![Screenshot 4](photos/4.jpg)
-
-**5. Emergency Alerts Screen**
-![Screenshot 5](photos/5.jpg)
+![Screenshot 1](photos/figma.png)
 
 ### Screen Hierarchy
 
